@@ -1,0 +1,4 @@
+Notes on VIM:
+There are four modes to VIM: normal, command, insert, and view.
+To type, you will want to make sure you're in insert mode.
+To quit VIM, use :wq to save and quit and :q! to quit without saving.
