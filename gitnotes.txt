@@ -1,1 +1,0 @@
-When you want to save your changes, there are two steps when using git. First, you'll have to add the changes to a staging area, which can contain any number of changes that you've worked on and added. When you're ready to make it official, you commit those changes in the staging area to the repository using git commit. You can add a commit message using -m "Message".
